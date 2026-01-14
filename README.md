@@ -161,7 +161,8 @@ A 4×4 KPI grid including:
 
 ### Summary Page
 
-![Summary Dashboard](dashboards/Bank_Dashboard_Summary_Page.png)
+![Summary Dashboard](Banking-Analytics-End-to-End-Project
+/Summary Page.png)
 
 ---
 
