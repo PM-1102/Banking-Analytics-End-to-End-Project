@@ -149,7 +149,7 @@ A 4×4 KPI grid including:
 
 ### Home Page
 
-![Home Dashboard](dashboards/Bank_Dashboard_Home.png)
+![Home Dashboard]https://github.com/PM-1102/Banking-Analytics-End-to-End-Project/blob/main/Home.png
 
 ### Loan Analysis
 
