@@ -153,7 +153,7 @@ A 4×4 KPI grid including:
 
 ### Loan Analysis
 
-![Loan Dashboard](dashboards/Bank_Dashboard_Loan_Page.png)
+![Loan Dashboard](Loan Analysis Page.png)
 
 ### Deposit Analysis
 
